@@ -1,4 +1,4 @@
-# Product_Analysis
+# Data_Analysis
 Food Ordering Platforms have seamlessly integrated technology with culinary experiences, reshaping the restaurant industry and consumer behaviour.
 
 Objective:
